@@ -1,6 +1,6 @@
 [
     {
-        "name": "Hydra Launcher V3.0.0",
+        "name": "Hydra Launcher",
         "version": "3.0.0",
         "description": "Un lanzador de aplicaciones potente y fácil de usar.",
         "install_command": "wget -P /tmp https://github.com/hydralauncher/hydra/releases/download/V3.0.0/hydralauncher_3.0.0_amd64.deb && sudo dpkg -i /tmp/hydralauncher_3.0.0_amd64.deb",
