@@ -6,6 +6,7 @@
         "install_command": "wget -P /tmp https://github.com/hydralauncher/hydra/releases/download/V3.0.0/hydralauncher_3.0.0_amd64.deb && sudo dpkg -i /tmp/hydralauncher_3.0.0_amd64.deb",
         "uninstall_command": "sudo apt remove hydralauncher",
         "info_url": "https://api.github.com/repos/usuario/programa1",
+        "size": "15 MB"
         "icon": "https://raw.githubusercontent.com/hydralauncher/hydra/main/resources/icon.png" 
     },
     {
@@ -15,6 +16,7 @@
         "install_command": "sudo snap install programa2",
         "uninstall_command": "sudo snap remove programa2",
         "info_url": "https://api.github.com/repos/usuario/programa2",
+        "size": "15 MB"
         "icon": "https://example.com/icon2.png" 
     }
 ]
